@@ -4,11 +4,13 @@ Co-authored-by: Fernando Cuervo Ledesma 165972
 
 Co-authored-by: Ximena Vazquez Mellado Flores 171319
 
-Co-authored-by: 
+Co-authored-by: Jorge Roberto Polanco Domínguez 167325
 
-Co-authored-by: 
+Co-authored-by: Jose Arrojo Ponce 160003
 
-Co-authored-by: 
+Co-authored-by: Angel David Moreno Lozano 171829
+
+Co-authored-by: Hector Emiliano Zepeda Gonzalez 166896
 
 ### Introduction
 En este tutorial aprenderas a usar la libreria Tensorflow en el ambiente de Google Colab
@@ -23,6 +25,8 @@ Google Colab es un servicio gratuito en la nube que ofrece potentes capacidades 
 
 ### Limitaciones de Google Colab
 Google Colab es una plataforma poderosa, pero tiene algunas limitaciones. La limitación más significativa es la falta de soporte para ciertos lenguajes de programación, como Java y C++. Además, la plataforma está limitada a 12 horas de uso continuo, luego de lo cual se desconectará. Finalmente, la plataforma está limitada a 1 GB de RAM y 5 GB de almacenamiento.
+
+TensorFlow is an end-to-end open source library for deep learning written by the Google Brain team in 2015 (Google brain team is a branch of google dedicated to researching AI and deep learning).
 
 ### Que es TensorFlow?
 TensorFlow es una plataforma de código abierto integral para el aprendizaje automático, tiene funcionalidades como:
